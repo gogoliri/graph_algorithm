@@ -1,0 +1,10 @@
+Put all the files  together in a folder
+- "allPathsFW.py"
+- "graafi3.py"
+- graphs file
+
+Change the line
+"g = graph.Graph("G04PythonFW.txt")"
+to choose the testing graph of your choice
+This code just print out the matrix path
+There is no requirement to write to file

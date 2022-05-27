@@ -1,0 +1,19 @@
+Hi, sorry for the ugly format of the output
+Please put the files together to run:
+    -main.py
+    -graafi3.py
+    -an edge list of your choice
+Run the file main.py
+Change the *filename* variable in main.py to choose graph of your choice
+I tried to name variable self-explanatory
+Don't replaced graafi3.py with any other version
+This file (graafi3.py) has been modified to remove edge from graph
+In the output, I add an extra step to calculate weight of MST
+Since my code does not return the same MST with the test results of the teacher
+Using weight of MST (w_mst) is the only weight to check the validity of the MST
+    # G1 w_mst = 26
+    # G2 w_mst = 9
+    # G3 w_mst = 6
+    # G4 w_mst = 17
+for the convenience, my DFS always start at vertex 1, you can change it
+Good luck

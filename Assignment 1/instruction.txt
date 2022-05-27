@@ -1,0 +1,16 @@
+Put the files together:
+BFS.py
+graafi3.py
+allMinSpanT.py
+
+Run allMinSpanT.py, change the lines
+"g = Graph('G12Python.txt')"
+"T = allMinSpanT(g, 1)"
+
+
+to specify the graph and source you want to try
+The script will output minimal spanning trees to the folder "output"
+Run the code grading_code.py with input:
+- path to the output folder
+- path to the model result of the graph and source
+grading_code.py check whether our file allMinSpanT.py is running as desired
